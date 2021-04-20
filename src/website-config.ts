@@ -49,7 +49,7 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Ghost',
+  title: 'Isabel Moore',
   description: 'What I\'m working on',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
