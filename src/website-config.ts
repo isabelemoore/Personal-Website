@@ -51,7 +51,7 @@ export interface WebsiteConfig {
 const config: WebsiteConfig = {
   title: 'Isabel Moore',
   description: 'What I\'m working on',
-  coverImage: 'img/blog-cover.png',
+  coverImage: 'img/ghost-logo.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
   siteUrl: 'https://gatsby-casper.netlify.com',
